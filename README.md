@@ -5,7 +5,7 @@
 - [Kod]()
   # O brazku
   pipis obrazku
-  ## Obrazek
+  ## Logo pythonu
 ![Python-logo-notext svg](https://github.com/user-attachments/assets/4caf0856-3c4b-490f-90d3-189b74cb0db5)
 
 
