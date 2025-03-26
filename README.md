@@ -1,4 +1,5 @@
 # SchoolNew 
+# Dnesni den
 - [Dnešní den] ()
 - [Obrázek pythonu] (#obrazek)
 - [Kod]()
@@ -12,3 +13,4 @@
 ###  kod
 ``` python
 print("ahoj")
+popis kodu: kod nam ukaze pozdrav "ahoj"
