@@ -1,7 +1,7 @@
 # SchoolNew 
 # Dnesni den
-- [Dnešní den] ()
-- [Obrázek pythonu] (#obrazek)
+- [Dnešní den]()
+- [Obrázek pythonu](#obrazek)
 - [Kod]()
   # O brazku
   pipis obrazku
